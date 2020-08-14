@@ -1,8 +1,8 @@
 # *Neural Style Transfer Learning In Tensorflow*
 **The Art Of Deep Learning** 
-![nst](Images/i1.png)
-![nst1](Images/i3.png)
-![nst2](Images/i2.png)
+![nst](Images/i1.JPG)
+![nst1](Images/style.jpg)
+![nst2](Images/i2.jpeg)
 
 ### *The Image size can be easily kept as it was by using ```opencv``` python library.* 
 > open notebook, before training the model resize you image as you want. Add a cell in notebook and resize image using following code: 
